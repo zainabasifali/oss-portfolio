@@ -3,9 +3,10 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Button from 'react-bootstrap/Button';
 import './Navbar.css';
+
 function NavBar() {
   return (
-    <Navbar expand="lg" className="shadow-sm">
+    <Navbar expand="lg" className="shadow-sm" sticky="top">
       <Container>
         <Navbar.Brand href="#home" className='nav-name'>ALI RAZA PATEL</Navbar.Brand>
 
@@ -18,7 +19,7 @@ function NavBar() {
             <Nav.Link href="#link" className='nav-link'>PHOTOS</Nav.Link>
             <Nav.Link href="#link" className='nav-link'>PRICING</Nav.Link>
             <Nav.Link href="#link" className='nav-link'>HIRE ME</Nav.Link>
-            <Button variant="light" className='text-color shadow ms-2'>Say Hello</Button>
+            <Button variant="light" className='text-color shadow ms-2 button-white'>Say Hello</Button>
           </Nav>
 
         </Navbar.Collapse>

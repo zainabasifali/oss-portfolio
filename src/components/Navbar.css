@@ -1,6 +1,6 @@
 .navbar {
-  padding-top: 15px !important;
   background-color: #ECF0F3 !important;
+  height: 77.9px !important;
 }
 
 .nav-name{
@@ -9,4 +9,16 @@
 }
 .nav-link{
     font-size: 13px !important;
+}
+
+.button-white {
+ background: linear-gradient(112.79deg, #E2E8EC 0%, #FFFFFF 100%) !important;
+  box-shadow: -5px -5px 15px 0px #FFFFFF !important;
+box-shadow: 5px 5px 15px 0px #D1D9E6 !important;
+  border: white !important;
+  font-family: 'Popins' !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  height: 39px !important;
+  width: 100px !important;
 }
