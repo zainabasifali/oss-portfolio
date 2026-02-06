@@ -51,6 +51,11 @@ background-color: white;
 border-radius: 10px;
 }
 
+.pricing-box ul li {
+  margin-bottom: 10px; 
+  font-family: 'Popins';
+}
+
 .pricing-box-text {
   font-weight: 400;
   font-size: 15px;
@@ -65,7 +70,6 @@ border-radius: 10px;
 box-shadow: 5px 5px 15px 0px #D1D9E6;
 
 }
-
 
 .client-img {
   height: 85px;
