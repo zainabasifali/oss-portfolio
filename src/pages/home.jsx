@@ -154,7 +154,7 @@ const Home = () => {
 
       {/* Clients section */}
       <Container className='mt-5'>
-        <p className='text-center text-color head-tags'>VISIT MY CLIENTS</p>
+        <p className='text-center text-color head-tags fw-bold'>VISIT MY CLIENTS</p>
         <hr />
         <h2 className='text-center heads'>My Trusted Client</h2>
         <Row className='mt-5 d-flex  gap-5 justify-content-center'>
@@ -196,7 +196,7 @@ const Home = () => {
 
       {/* Contact section */}
       <Container className='mt-5'>
-        <p className='text-center text-color head-tags'>LETS MEET</p>
+        <p className='text-center text-color head-tags fw-bold'>LETS MEET</p>
         <h2 className='text-center heads'>Hire me</h2>
         <Row className='mt-5 d-flex  gap-5 justify-content-center'>
           <Col lg={4} md={6} sm={12} className='project-box'>
