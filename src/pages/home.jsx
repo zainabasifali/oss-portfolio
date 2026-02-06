@@ -111,7 +111,7 @@ const Home = () => {
             Lets start a project together
           </Button>
         </div>
-        <Row className='mt-5 d-flex justify-content-between'>
+        <Row className='mt-5 d-flex justify-content-around'>
           <Col lg={3} md={5} sm={12}>
             <p className='text-color fw-bold'>PRICING</p>
             <h2>Pricing 🚀</h2>

@@ -17,8 +17,7 @@ function NavBar() {
             <Nav.Link href="#home" className='nav-link'>HELLO</Nav.Link>
             <Nav.Link href="#link" className='nav-link'>DESIGN</Nav.Link>
             <Nav.Link href="#link" className='nav-link'>PHOTOS</Nav.Link>
-            <Nav.Link href="#link" className='nav-link'>PRICING</Nav.Link>
-            <Nav.Link href="#link" className='nav-link'>HIRE ME</Nav.Link>
+            <Nav.Link href="#link" className='nav-link link-space'>PRICING</Nav.Link>
             <Button variant="light" className='text-color shadow ms-2 button-white'>Say Hello</Button>
           </Nav>
 

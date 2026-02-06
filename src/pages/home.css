@@ -16,12 +16,11 @@
 
 .project-box {
   padding: 15px;
-background: linear-gradient(147.48deg, #E2E8EC 0%, #FFFFFF 100%);
+  background: linear-gradient(147.48deg, #E2E8EC 0%, #FFFFFF 100%);
   border-radius: 15px;
   margin-bottom: 20px;
-box-shadow: -5px -5px 15px 0px #FFFFFF;
-box-shadow: 5px 5px 15px 0px #D1D9E6;
-width: 280px;
+  box-shadow: -5px -5px 15px 0px #FFFFFF;
+  box-shadow: 5px 5px 15px 0px #D1D9E6;
 }
 
 .swipper-margin {
@@ -44,16 +43,15 @@ width: 280px;
 
 .pricing-box {
   box-shadow: -5px -5px 15px 0px #FFFFFF;
-box-shadow: 5px 5px 15px 0px #D1D9E6;
-  padding: 15px;
+  box-shadow: 5px 5px 15px 0px #D1D9E6;
   border-radius: 15px;
   margin-bottom: 20px;
-background-color: white;
-border-radius: 10px;
+  background-color: white;
+  border-radius: 10px;
 }
 
 .pricing-box ul li {
-  margin-bottom: 10px; 
+  margin-bottom: 10px;
   font-family: 'Popins';
 }
 
@@ -68,7 +66,7 @@ border-radius: 10px;
   background-color: rgb(240, 236, 236);
   background: linear-gradient(150deg, #E2E8EC 0%, #FFFFFF 100%);
   box-shadow: -5px -5px 15px 0px #FFFFFF;
-box-shadow: 5px 5px 15px 0px #D1D9E6;
+  box-shadow: 5px 5px 15px 0px #D1D9E6;
 
 }
 
